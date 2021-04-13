@@ -8,7 +8,7 @@ All implicit feedback information : https://nijianmo.github.io/amazon/index.html
 load experimental dataset in proper position. 
 
 
-run code: python GMF.py --dataset <dataset file name> --epochs <epochs number(i.e. 10)> --batch_size <size>--num_factors <number> --regs [0,0] --num_neg 4 --lr <learning rate> --learner adam --verbose 1 --out 1
+run code: python GMF.py --dataset<dataset file name> --epochs<epochs number(i.e. 10)> --batch_size<size>--num_factors<number> --regs [0,0] --num_neg 4 --lr <learning rate> --learner adam --verbose 1 --out 1
 
 
 
