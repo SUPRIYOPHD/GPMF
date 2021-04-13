@@ -1,6 +1,10 @@
 # GPMF
 AMAZON DATASET: https://jmcauley.ucsd.edu/data/amazon/
+
+
 All implicit feedback information : https://nijianmo.github.io/amazon/index.html
+
+
 load experimental dataset in proper position. 
 
 
