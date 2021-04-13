@@ -23,10 +23,7 @@ run code: python GMF.py --dataset ml-1m --epochs 20 --batch_size 256 --num_facto
 
 
 
+**********Cite this article****************
 
-
-
-/////////////////////////////////////////////////////
-Cite this article
 
 Mandal, S., Maiti, A. Explicit feedback meet with implicit feedback in GPMF: a generalized probabilistic matrix factorization model for recommendation. Appl Intell 50, 1955–1978 (2020). https://doi.org/10.1007/s10489-020-01643-1.
